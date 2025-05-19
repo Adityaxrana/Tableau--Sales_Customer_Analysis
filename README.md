@@ -49,7 +49,7 @@ The project is divided into two primary dashboards:
 
 Watch a walkthrough of the dashboards highlighting the key features and insights:
 
-> 🔗 [Click here to view the demo video](https://raw.github.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/media/video.mov)
+> 🔗 [Click here to view the demo video](https://github.com/Adityaxrana/Tableau--Sales_Customer_Analysis/blob/main/Media/Video.mov)
 
 ---
 

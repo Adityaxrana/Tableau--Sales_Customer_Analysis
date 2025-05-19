@@ -3,6 +3,7 @@
 This project involves creating two interactive Tableau dashboards designed to provide insightful analysis on sales performance and customer behavior. These dashboards enable stakeholders to monitor key metrics, identify trends, and make data-driven decisions to improve business outcomes.
 
 ---
+![Sales Dashboard](https://raw.githubusercontent.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/Media/first.jpg)
 
 ## Project Overview
 

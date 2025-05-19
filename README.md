@@ -35,10 +35,10 @@ The project is divided into two primary dashboards:
 ## Screenshots
 
 ### Sales Dashboard Overview  
-![Sales Dashboard](https://raw.github.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/media/first.jpg)
+![Sales Dashboard](https://raw.githubusercontent.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/Media/first.jpg)
 
 ### Customer Dashboard Overview  
-![Customer Dashboard](https://raw.github.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/media/Second.jpg)
+![Customer Dashboard](https://raw.githubusercontent.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/Media/second.jpg)
 
 ### Interactive Filters in Action  
 ![Customer Dashboard](https://raw.github.com/Adityaxrana/Tableau--Sales_Customer_Analysis/main/media/Third.jpg)
